@@ -1,1 +1,1 @@
-/Users/an7onie77i/Code/cm-voucher/target/debug/cm-voucher: /Users/an7onie77i/Code/cm-voucher/src/get_data.rs /Users/an7onie77i/Code/cm-voucher/src/main.rs /Users/an7onie77i/Code/cm-voucher/src/parser.rs
+/Users/an7onie77i/Code/cm-voucher/target/debug/cm-voucher: /Users/an7onie77i/Code/cm-voucher/src/main.rs

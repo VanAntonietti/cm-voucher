@@ -1,3 +1,0 @@
-cargo:rerun-if-changed=build/main.rs
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/an7onie77i/Code/cm-voucher/target/debug/build/typenum-e3fb0576f51b3140/out/consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=/Users/an7onie77i/Code/cm-voucher/target/debug/build/typenum-e3fb0576f51b3140/out/op.rs
