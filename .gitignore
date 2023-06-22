@@ -3,3 +3,8 @@
 */.gitignore
 */.git
 */.gitmod
+.DS_Store
+*/.DS_Store
+.vscode
+*/.vscode
+*/.vscod

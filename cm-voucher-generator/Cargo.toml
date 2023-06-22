@@ -1,9 +1,10 @@
 [package]
 name = "cm-voucher-generator"
 version = "0.1.0"
-edition = "2023"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
+imageproc = "0.23.0"
 sha2 = "0.10.7"
